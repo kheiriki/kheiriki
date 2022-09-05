@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my github page](my github page)
 
-- 📝 I regularly write articles on [linkedIn](linkedIn)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/kiana-k-004125199/](linkedIn)
 
 - 💬 Ask me about **Data Science.**
 
