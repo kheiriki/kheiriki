@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiana Kheiri</h1>
 <h3 align="center">A passionate Data Scientist and frontend developer</h3>
 
-- 📚 I’m currently [Computer science phD Student](at Utah State University)
+- 📚 I’m currently [Computer science MSC Student](at Utah State University)
 
 - 🌱 I’m currently learning **Social Network Analysis.**
 
