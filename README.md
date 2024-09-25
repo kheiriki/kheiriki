@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kiana Kheiri</h1>
 <h3 align="center">A passionate Data Scientist and frontend developer</h3>
 
-- 📚 I’m currently [Computer science MSC Student](at Utah State University)
+- 📚 I’m currently [Computer science MSC Student](at Toronto Metropolitan University )
 
-- 🌱 I’m currently learning **Social Network Analysis.**
+- 🌱 I’m currently learning **Multimodal Recommender Systems**
 
-- 👩🏻‍💻 I’m currently working as [Graduate Research Assistant](at Utah State University)
+- 👩🏻‍💻 I’m currently working as [Graduate Research Assistant](atToronto Metropolitan University )
 
 - 👨‍💻 All of my projects are available at [my github page](my github page)
 
